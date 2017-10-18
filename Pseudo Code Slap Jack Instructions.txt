@@ -10,7 +10,6 @@ if the card that player 1 played is a jack:
 	if you slapped the jack first:
 		then take the jack and all of the cards under it;
 	Check to see if one player has all of the cards and won;
-	Player 2
 if the card isnt a jack:
 	then player 2 plays a card;
 Player 2 plays a card;
