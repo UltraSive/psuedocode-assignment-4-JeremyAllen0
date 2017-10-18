@@ -1,0 +1,11 @@
+Slap Jack
+Jeremy Allen
+Rules: 
+1. Deal out all of the cards to all of the players evenly
+2. The person sitting directly to the left of the dealers plays first
+3. The objective of the game is to win all of the cards in the deck
+4. Each player plays a card in the middle of the playing area
+5. When a jack is played the first person to slap the jack gets the jack and all of the cards under it
+6. The last person with cards is the winner
+
+
